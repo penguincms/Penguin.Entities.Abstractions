@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Penguin.Entities.Abstractions", "Penguin.Entities.Abstractions.csproj", "{E7EFB34E-EFE8-473E-BAF7-16F9EC9A107A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7EFB34E-EFE8-473E-BAF7-16F9EC9A107A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EFB34E-EFE8-473E-BAF7-16F9EC9A107A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EFB34E-EFE8-473E-BAF7-16F9EC9A107A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EFB34E-EFE8-473E-BAF7-16F9EC9A107A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662264C2-5AD0-430B-B45C-72C6753C9E8E}
+	EndGlobalSection
+EndGlobal
