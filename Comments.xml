@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Penguin.Entities.Abstractions.Local</name>
+    </assembly>
+    <members>
+        <member name="T:Penguin.Entities.Abstractions.IAuditableEntity">
+            <summary>
+            An entity that contains a modified date for tracking changes
+            </summary>
+        </member>
+        <member name="P:Penguin.Entities.Abstractions.IAuditableEntity.DateModified">
+            <summary>
+            The date the entity was modified
+            </summary>
+        </member>
+        <member name="T:Penguin.Entities.Abstractions.IEntity">
+            <summary>
+            An Entity that has a post persist ID and a Pre-Persist GUID
+            </summary>
+        </member>
+        <member name="P:Penguin.Entities.Abstractions.IEntity._Id">
+            <summary>
+            An ID key for the entity
+            </summary>
+        </member>
+        <member name="P:Penguin.Entities.Abstractions.IEntity.Guid">
+            <summary>
+            A guid that uniquely represents this entity
+            </summary>
+        </member>
+    </members>
+</doc>
