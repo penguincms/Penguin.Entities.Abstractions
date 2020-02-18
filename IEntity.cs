@@ -14,7 +14,6 @@ namespace Penguin.Entities.Abstractions
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Style", "IDE1006:Naming Styles", Justification = "Named to prevent conficts with common fields")]
         int _Id { get; }
 
-
         /// <summary>
         /// A guid that uniquely represents this entity
         /// </summary>
