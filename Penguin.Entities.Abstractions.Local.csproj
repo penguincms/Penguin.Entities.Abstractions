@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageProjectUrl>https://github.com/penguincms/Penguin.Entities.Abstractions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/PenguinCMS/Penguin.Entities.Abstractions</PackageProjectUrl>
     <Version>5.0.5</Version>
     <Description>Abstractions for mimicking Penguin entities for use in Penguin services</Description>
     <AssemblyName>Penguin.Entities.Abstractions</AssemblyName>
